@@ -1,0 +1,40 @@
+2024-09-20 18:49:10,910 - INFO - Rozpoczęto przetwarzanie pliku CSV.
+2024-09-20 18:49:10,912 - INFO - Wczytano plik CSV z 176 wierszami.
+2024-09-20 18:49:10,912 - INFO - Zaktualizowano wpis dla wiersza 1: 'Projekt wpłynął do Sejmu'.
+2024-09-20 18:49:10,913 - INFO - Zaktualizowano wpis dla wiersza 4: 'Sprawozdanie komisji po I czytaniu'.
+2024-09-20 18:49:10,913 - INFO - Zaktualizowano wpis dla wiersza 13: 'Projekt wpłynął do Sejmu'.
+2024-09-20 18:49:10,913 - INFO - Zaktualizowano wpis dla wiersza 16: 'Sprawozdanie komisji po I czytaniu'.
+2024-09-20 18:49:10,914 - INFO - Zaktualizowano wpis dla wiersza 25: 'Projekt wpłynął do Sejmu'.
+2024-09-20 18:49:10,914 - INFO - Zaktualizowano wpis dla wiersza 28: 'Sprawozdanie komisji po I czytaniu'.
+2024-09-20 18:49:10,914 - INFO - Zaktualizowano wpis dla wiersza 37: 'Projekt wpłynął do Sejmu'.
+2024-09-20 18:49:10,915 - INFO - Zaktualizowano wpis dla wiersza 40: 'Sprawozdanie komisji po I czytaniu na posiedzeniu Sejmu'.
+2024-09-20 18:49:10,915 - INFO - Zaktualizowano wpis dla wiersza 42: 'Sprawozdanie komisji po II czytaniu na posiedzeniu Sejmu'.
+2024-09-20 18:49:10,915 - INFO - Zaktualizowano wpis dla wiersza 46: 'Sprawozdanie komisji po poprawkach Senatu'.
+2024-09-20 18:49:10,915 - INFO - Zaktualizowano wpis dla wiersza 50: 'Projekt wpłynął do Sejmu'.
+2024-09-20 18:49:10,916 - INFO - Zaktualizowano wpis dla wiersza 53: 'Sprawozdanie komisji po I czytaniu'.
+2024-09-20 18:49:10,916 - INFO - Zaktualizowano wpis dla wiersza 55: 'Sprawozdanie komisji po II czytaniu na posiedzeniu Sejmu'.
+2024-09-20 18:49:10,916 - INFO - Zaktualizowano wpis dla wiersza 62: 'Projekt wpłynął do Sejmu'.
+2024-09-20 18:49:10,916 - INFO - Zaktualizowano wpis dla wiersza 65: 'Sprawozdanie komisji po I czytaniu'.
+2024-09-20 18:49:10,916 - INFO - Zaktualizowano wpis dla wiersza 67: 'Sprawozdanie komisji po II czytaniu na posiedzeniu Sejmu'.
+2024-09-20 18:49:10,917 - INFO - Zaktualizowano wpis dla wiersza 74: 'Projekt wpłynął do Sejmu'.
+2024-09-20 18:49:10,917 - INFO - Zaktualizowano wpis dla wiersza 77: 'Sprawozdanie komisji po I czytaniu na posiedzeniu Sejmu'.
+2024-09-20 18:49:10,917 - INFO - Zaktualizowano wpis dla wiersza 85: 'Projekt wpłynął do Sejmu'.
+2024-09-20 18:49:10,918 - INFO - Zaktualizowano wpis dla wiersza 88: 'Sprawozdanie komisji po I czytaniu na posiedzeniu Sejmu'.
+2024-09-20 18:49:10,918 - INFO - Zaktualizowano wpis dla wiersza 90: 'Sprawozdanie komisji po II czytaniu na posiedzeniu Sejmu'.
+2024-09-20 18:49:10,918 - INFO - Zaktualizowano wpis dla wiersza 94: 'Sprawozdanie komisji po poprawkach Senatu'.
+2024-09-20 18:49:10,918 - INFO - Zaktualizowano wpis dla wiersza 99: 'Projekt wpłynął do Sejmu'.
+2024-09-20 18:49:10,919 - INFO - Zaktualizowano wpis dla wiersza 102: 'Sprawozdanie komisji po I czytaniu'.
+2024-09-20 18:49:10,919 - INFO - Zaktualizowano wpis dla wiersza 110: 'Projekt wpłynął do Sejmu'.
+2024-09-20 18:49:10,919 - INFO - Zaktualizowano wpis dla wiersza 113: 'Sprawozdanie komisji po I czytaniu na posiedzeniu Sejmu'.
+2024-09-20 18:49:10,920 - INFO - Zaktualizowano wpis dla wiersza 121: 'Projekt wpłynął do Sejmu'.
+2024-09-20 18:49:10,920 - INFO - Zaktualizowano wpis dla wiersza 124: 'Sprawozdanie komisji po I czytaniu na posiedzeniu Sejmu'.
+2024-09-20 18:49:10,920 - INFO - Zaktualizowano wpis dla wiersza 126: 'Sprawozdanie komisji po II czytaniu na posiedzeniu Sejmu'.
+2024-09-20 18:49:10,920 - INFO - Zaktualizowano wpis dla wiersza 133: 'Projekt wpłynął do Sejmu'.
+2024-09-20 18:49:10,921 - INFO - Zaktualizowano wpis dla wiersza 136: 'Sprawozdanie komisji po I czytaniu na posiedzeniu Sejmu'.
+2024-09-20 18:49:10,921 - INFO - Zaktualizowano wpis dla wiersza 144: 'Projekt wpłynął do Sejmu'.
+2024-09-20 18:49:10,921 - INFO - Zaktualizowano wpis dla wiersza 147: 'Sprawozdanie komisji po I czytaniu'.
+2024-09-20 18:49:10,922 - INFO - Zaktualizowano wpis dla wiersza 155: 'Projekt wpłynął do Sejmu'.
+2024-09-20 18:49:10,922 - INFO - Zaktualizowano wpis dla wiersza 158: 'Sprawozdanie komisji po I czytaniu'.
+2024-09-20 18:49:10,922 - INFO - Zaktualizowano wpis dla wiersza 166: 'Projekt wpłynął do Sejmu'.
+2024-09-20 18:49:10,922 - INFO - Zaktualizowano wpis dla wiersza 169: 'Sprawozdanie komisji po I czytaniu'.
+2024-09-20 18:49:10,924 - INFO - Zapisano przetworzone dane do pliku: C:/Users/Anonymous/Desktop/sejm_projects_abstracted.csv.
